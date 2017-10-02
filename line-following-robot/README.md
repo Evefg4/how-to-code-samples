@@ -36,9 +36,9 @@ For all the samples in this repository, see the ![General Setup Instructions](./
 
 In addition to using a compatible platform listed in ![Hardware Compatibility](./../README.md#hardware-compatibility), here is additional hardware you will need to run this example.
 
-1. [Grove\* Base Shield V2](https://www.seeedstudio.com/Base-Shield-V2-p-1378.html)
-2. [Grove Line Finder](http://iotdk.Intel®.com/docs/master/upm/node/classes/grovelinefinder.html)
-3. [Stepper Motor Controller & Stepper Motor](http://iotdk.Intel®.com/docs/master/upm/node/classes/uln200xa.html) (x2)
+1. <a href="https://www.seeedstudio.com/Base-Shield-V2-p-1378.html" target="_blank">Grove\* Base Shield V2</a>
+2. [Grove Line Finder](http://iotdk.intel.com/docs/master/upm/node/classes/grovelinefinder.html)
+3. [Stepper Motor Controller & Stepper Motor](http://iotdk.intel.com/docs/master/upm/node/classes/uln200xa.html) (x2)
 
 ### Connecting the Grove\* sensors
 
