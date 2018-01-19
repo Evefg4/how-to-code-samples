@@ -1,4 +1,4 @@
-﻿# Access control in C++
+# Access control in C++
 
 ## What it is
 
@@ -9,7 +9,7 @@ Using a compatible Intel-based platform, this project lets you create a smart ac
 - keeps track of access data, using cloud-based storage.
 
 ## First time setup
-For all the samples in this repository, see the ![General Setup Instructions](./../../README.md#setup) for required boards and libraries.  You need either Grove or DFRobot sensors but not both.
+For all the samples in this repository, see the [General Setup Instructions](./../../README.md#setup) for required boards and libraries.  You need either Grove or DFRobot sensors but not both.
 
 ## Hardware requirements
 
@@ -26,12 +26,12 @@ Sensor | Pin
 --- | ---
 PIR (Motion) Sensor | A2
 
-For more specific information on the hardware requirements see ![Hardware Details](./../README.md#hardware-requirements)
+For more specific information on the hardware requirements see [Hardware Details](./../README.md#hardware-requirements)
 
 ## Software requirements
 
 1. MRAA https://github.com/intel-iot-devkit/mraa and UPM https://upm.mraa.io/
-2. Intel® System Studio ![https://software.intel.com/en-us/creating-iot-projects-with-intel-system-studio-2018-c](https://software.intel.com/en-us/creating-iot-projects-with-intel-system-studio-2018-c) 
+2. Intel® System Studio [https://software.intel.com/en-us/creating-iot-projects-with-intel-system-studio-2018-c](https://software.intel.com/en-us/creating-iot-projects-with-intel-system-studio-2018-c) 
 3. Microsof Azure\*, IBM Bluemix\*, AT&T M2X\*, AWS\*, Predix\*, or SAP\* account (optional)
 4. Note: The following libraries are included with the repo and already linked to in the code 
   -jsoncpp
