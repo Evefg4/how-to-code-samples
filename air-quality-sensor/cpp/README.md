@@ -1,4 +1,4 @@
-﻿# Air quality sensor in C++
+# Air quality sensor in C++
 
 ## What it is
 Using a compatible Intel-based platforms, this project lets you create an air quality monitor that:
@@ -8,7 +8,7 @@ Using a compatible Intel-based platforms, this project lets you create an air qu
 - stores a record of each time the air quality sensor detects contaminants, using cloud-based data storage.
 
 ## First time setup
-For all the samples in this repository, see the ![General Setup Instructions](./../../README.md#setup) for required boards and libraries.  You need either Grove or DFRobot sensors but not both.
+For all the samples in this repository, see the [General Setup Instructions](./../../README.md#setup) for required boards and libraries.  You need either Grove or DFRobot sensors but not both.
 
 ## Hardware requirements
 
@@ -26,12 +26,12 @@ Sensor | Pin
 Buzzer | A1
 Air Quality Sensor | A3
 
-For more specific information on the hardware requirements see ![Hardware Details](./../README.md#hardware-requirements)
+For more specific information on the hardware requirements see [Hardware Details](./../README.md#hardware-requirements)
 
 ## Software requirements
 
 1. MRAA https://github.com/intel-iot-devkit/mraa) and UPM https://upm.mraa.io
-2. Intel® System Studio ![https://software.intel.com/en-us/creating-iot-projects-with-intel-system-studio-2018-c](https://software.intel.com/en-us/creating-iot-projects-with-intel-system-studio-2018-c) 
+2. Intel® System Studio [https://software.intel.com/en-us/creating-iot-projects-with-intel-system-studio-2018-c](https://software.intel.com/en-us/creating-iot-projects-with-intel-system-studio-2018-c) 
 3. Microsoft Azure\*, IBM Bluemix\*, AT&T M2X\*, AWS\*, Predix\*, or SAP\* account (optional)
 
 ## Configuring the example for your hardware kit
