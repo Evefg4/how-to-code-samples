@@ -25,13 +25,13 @@ Sensor | Pin
 --- | ---
 PIR (Motion) Sensor | A2
 
-For more specific information on the hardware requirements see ![Hardware Details](./../README.md#hardware-requirements)
+For more specific information on the hardware requirements see [Hardware Details](./../README.md#hardware-requirements)
 
 ## Software requirements
 
 1. [MRAA](https://github.com/intel-iot-devkit/mraa) and [UPM](https://upm.mraa.io/) 
 2. Python 2.7
-3. Packages as listed in the ![setup.py](setup.py) file in this directory
+3. Packages as listed in the [setup.py](setup.py) file in this directory
 1. Microsoft Azure\*, IBM Bluemix\*, AT&T M2X\*, AWS\*, Predix\*, or SAP\* account (optional)
 
 You can install the dependencies.
